@@ -4,25 +4,25 @@
   <img src="https://codaleebs.fr/img/logo/logo_Codaleebs_ajuste.png" alt="Logo de Codaleebs" width="100">
 </p>
 
-Bienvenue chez **Codaleebs** ! Nous sommes une équipe de trois étudiants passionnés par le **développement web et mobile**. Nous mettons notre expertise et notre dynamisme au service des particuliers et entreprises souhaitant réussir leur transformation numérique.
+Bienvenue chez **Codaleebs** ! Nous sommes une équipe de deux étudiants passionnés par le **développement web et mobile**. Nous mettons notre expertise et notre dynamisme au service des particuliers et entreprises souhaitant réussir leur transformation numérique.
 Notre approche repose sur l'innovation, l'exploration des nouvelles technologies et la volonté de proposer des solutions modernes, adaptées aux besoins d’aujourd’hui et de demain. Travailler avec nous, c’est faire le choix d’une équipe **jeune, flexible et créative**, qui s’investit pleinement dans chaque projet.
 
 ---
 
-## 🛠️ Nos Services
-- 💻 **Développement Web** : Sites vitrines, plateformes web, e-commerce, applications full-stack
-- 📱 **Applications Mobiles** : Applications natives Android et iOS, Progressive Web Apps
-- 🗃️ **Bases de Données** : Conception, gestion et intégration de données
+## 🛠️ Nos services
+- 💻 **Développement Web** : Sites vitrines, plateformes web, e-commerce, applications full-stack ;
+- 📱 **Applications Mobiles** : Applications natives Android et iOS, Progressive Web Apps ;
+- 🗃️ **Bases de Données** : Conception, gestion et intégration de données ;
 - 🚀 **Optimisation et Refonte** : Modernisation et amélioration de sites web pour une navigation fluide et une meilleure accessibilité.
 
 ---
 
 ## 👥 Pourquoi choisir Codaleebs ?
-- ✅ **Flexibilité** : Des projets sur mesure, adaptés à vos besoins
-- 🧑‍💻 **Expertise technique** : Une équipe de développeurs passionnés
-- 🤝 **Collaboration** : Un suivi personnalisé et des échanges réguliers
-- 💡 **Innovation** : Toujours en quête de solutions modernes et performantes
-- 👨‍🎓 **Équipe jeune** : Une équipe d'étudiants conscients des enjeux d'aujourd'hui
+- ✅ **Flexibilité** : Des projets sur mesure, adaptés à vos besoins ;
+- 🧑‍💻 **Expertise technique** : Une équipe de développeurs passionnés ;
+- 🤝 **Collaboration** : Un suivi personnalisé et des échanges réguliers ;
+- 💡 **Innovation** : Toujours en quête de solutions modernes et performantes ;
+- 👨‍🎓 **Équipe jeune** : Une équipe d'étudiants conscients des enjeux d'aujourd'hui.
 
 ---
 
@@ -53,16 +53,14 @@ Notre approche repose sur l'innovation, l'exploration des nouvelles technologies
 
 ---
 
-## 👥 Nos Membres
-Voici les trois membres passionnés qui composent le collectif **Codaleebs** :
+## 👥 Les membres du collectif
 
-- **[Rémi Choffat](https://github.com/remi-choffat)** - Développeur Full-Stack
-- **[Geoffrey Gros](https://github.com/Geoffrey2501)** - Développeur Logiciel
-- **[Mathis Segard](https://github.com/sethis02)** - Développeur Back-End
+- **[Rémi Choffat](https://github.com/remi-choffat)**
+- **[Geoffrey Gros](https://github.com/Geoffrey2501)**
 
 ---
 
-## 💬 Nous Contacter
+## 💬 Nous contacter
 - ✉️ **Mail** : [contact@codaleebs.fr](mailto:contact@codaleebs.fr)
 - 🌐 **Site Web** : [codaleebs.fr](https://codaleebs.fr)
 - 💼 **LinkedIn** : [Codaleebs sur LinkedIn](https://www.linkedin.com/company/codaleebs)
